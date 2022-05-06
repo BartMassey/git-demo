@@ -7,3 +7,5 @@ command line.
 It will disappear shortly.
 The project includes a "hello world" script
 in both Python and Bourne Shell.
+
+The Python script uses fancy stuff for its hello.
