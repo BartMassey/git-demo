@@ -1,2 +1,6 @@
 #!/bin/sh
-echo "hello world"
+for i in hello world
+do
+    echo -n "$i "
+done
+echo ""         
